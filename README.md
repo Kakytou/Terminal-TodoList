@@ -3,7 +3,7 @@ To do List no terminal
 
 # Gerenciador de Tarefas em Python
 
-Projeto simples de uma Todo List terminal, desenvolvido em **Python puro**.  
+Projeto simples de uma To do List no terminal, desenvolvido em **Python puro**.  
 Permite adicionar, visualizar, concluir e deletar tarefas, com persistência em arquivo JSON.
 
 ## Funcionalidades
